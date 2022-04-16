@@ -1,2 +1,2 @@
 # Snake
-Jeu du serpent en Python.
+Jeu du serpent en Python, utilise la librairie fltk incluse.
